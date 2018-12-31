@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 17, 2018, 5:23:01 PM
+    Author     : DELL
+*/
+
+.outline{
+    border: 1px solid #0062cc;
+    height: 100px
+}
+.main-nav{
+}
+.product .card{
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+.card-img-overlay{
+    top: auto;
+    bottom: 0;
+    background-color: rgba(0,0,0,.2);
+    display: none
+}
+p{
+    lin
+}
+.card:hover .card-img-overlay{
+    display: block
+}
+
+.h300{
+    height: 300px
+}
+ul li a{
+    color: #fff
+}
+h1{
+    color: #ec0896;
+    background: #004085;
+    display: block;
+    width: 0px;
+    border: 1px solid;
+    transition: 4s;
+    text-align: center
+}
+h1:hover{
+    width: 100%
+}
+
+
+.dropdown:hover ul{
+    display: block
+}
+.fa-facebook-f,.fa-sign, .fa-wolf-pack-battalion{
+    font-size: 3em;
+    color: #660066;
+    background: #0062cc;
+    margin: 10px;
+    display: block
+}
